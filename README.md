@@ -21,15 +21,5 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
-  <br/>
-  <br/>
-
-#### :pencil2: Study log
-
- <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hbeom00&layout=compact)
-![Hbeom00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hbeom00&show_icons=true&theme=radical)
   
 </div>
