@@ -1,6 +1,5 @@
 <div align="center">
   
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&width=435&lines=FE+Developer%2C+%EC%8B%A0%ED%9D%AC%EB%B2%94+%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 ####  :wave: Welcome my github profile !
 
 <br/>
